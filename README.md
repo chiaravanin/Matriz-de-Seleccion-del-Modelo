@@ -85,3 +85,7 @@ Embeddings: un modelo abierto como BGE-M3 suele ser una gran opción, porque es 
 Arquitectura híbrida: embeddings abiertos locales para indexar documentos sensibles, más un LLM por API que solo recibe los fragmentos recuperados (RAG), con datos anonimizados si hace falta.
 
 
+
+# PROMPTING> https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5
+
+
